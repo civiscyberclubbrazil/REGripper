@@ -1,2 +1,6 @@
-# REGripper
-O RegRipper é um aplicativo de código aberto para extrair, correlacionar e exibir informações específicas de arquivos de colmeia do Registro da família de sistemas operacionais Windows NT (2000, XP, 2003, Vista).  Nem todas as informações nos arquivos de colmeia do Registro são pertinentes ou mesmo de interesse para examinadores forenses.  No entanto, algumas informações são extremamente valiosas para o examinador forense... recentemente acessado arquivos e aplicativos, listas de mru mais recentementeu (MRU), etc.  O RegRipper extrai essas informações, juntamente com informações de carimbo de tempo das teclas do Registro (bem como valores cujos dados contêm informações de carimbo de data) e as exibe em um arquivo de texto para fácil visualização, bem como inclusão em relatórios.
+RegRipper2.8
+============
+
+RegRipper version 2.8
+
+This is the GitHub repository for RegRipper version 2.8
